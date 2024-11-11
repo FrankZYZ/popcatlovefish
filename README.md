@@ -1,5 +1,5 @@
 # popcatlovefish
 A game demo built by python.
-https://github.com/FrankXYZ/popcatlovefish/raw/main/popcatlovefish.mp4
+https://github.com/FrankZYZ/popcatlovefish/raw/main/popcatlovefish.mp4
 
 
